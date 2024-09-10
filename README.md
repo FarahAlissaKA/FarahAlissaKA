@@ -3,5 +3,5 @@
 - 👀 I’m interested in upgrading my knowledge and skills in data science area
 - 💞️ I’m beginning my professional career as a Junior Data Scientist
 - 📫 How to reach me: linkedin.com/in/farahalissa98
-- 😄 Pronouns: Ms
+- 😄 Pronouns: Ms/she/her
 
